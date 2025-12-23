@@ -5,7 +5,7 @@
 
 MOF (Metronomic One-Form) is a minimal numerical framework for exploring **effective-time reparametrization** in dynamical systems.
 
-The project introduces an *effective time* variable \( T_{\mathrm{eff}} \), defined through a local, state-dependent temporal modulation, without modifying the underlying equations of motion. The goal is to study how temporal structure, holonomy, and interaction constraints affect the accumulation and dispersion of effective time along trajectories.
+The project introduces an *effective time* variable (T_eff), defined through a local, state-dependent temporal modulation, without modifying the underlying equations of motion. The goal is to study how temporal structure, holonomy, and interaction constraints affect the accumulation and dispersion of effective time along trajectories.
 
 No new force, field, or degree of freedom is introduced. The framework operates strictly at the level of **time parametrization** and **geometric consistency**.
 
